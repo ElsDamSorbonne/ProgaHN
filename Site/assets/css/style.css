@@ -1,0 +1,33 @@
+html {
+    background-color: #6F223D;
+    font-size: 14px; 
+    width: 100vw; 
+}
+
+h1 {
+    font-size: 2em; 
+}
+
+h2 {
+    font-size: 1.5em; 
+}
+
+#page {
+    width: 80%; /* Largeur inférieure à 100% */
+    max-width: 900px; /* Pour éviter qu'elle soit trop large sur grands écrans */
+    margin: auto; /* Centre la division */
+    background-color: #1A42B8; /* Couleur de fond différente */
+    border: 3px solid #333; /* Bordure pleine */
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Ombre douce */
+}
+
+.entete {
+background-color: #6F223D;
+color: #1A42B8
+}
+
+.aboutme {
+background-color: #1A42B8
+color: #6F223D
+}
